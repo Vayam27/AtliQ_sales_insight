@@ -2,8 +2,7 @@
 
 ## Overview
 
-This project presents a comprehensive sales analysis dashboard for **AtliQ Hardware**, a hardware manufacturing company operating across India. The aim of the analysis is to help AtliQ gain better visibility into their sales data and performance over the years 2017–2020.
-Interactive Dashboard can be found here [click here](https://public.tableau.com/app/profile/vayam.bhatt/viz/AtliQ_sales/Dashboard1?publish=yes)
+Analyzing AtliQ Hardware sales from 2017-2020.Interactive Dashboard can be found here [click here](https://public.tableau.com/app/profile/vayam.bhatt/viz/AtliQ_sales/Dashboard1?publish=yes)
 
 
 ![Screenshot 2025-06-19 215719](https://github.com/user-attachments/assets/80fe7dfa-fb9d-4109-945f-39d3c94953a2)
