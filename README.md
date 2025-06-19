@@ -32,7 +32,8 @@ These dimensions enable dynamic filtering and deep-dives into different areas of
 
 ## 🧾 Executive Summary
 
-This project delivers a sales performance dashboard for AtliQ Hardware, focusing on revenue and quantity trends from 2017 to 2020. Built using SQL and Tableau, the dashboard empowers business leaders to monitor KPIs, identify top-performing regions and products, and make informed, data-driven decisions. It transforms raw sales data into actionable insights tailored for strategic planning and operational efficiency.
+This project presents a comprehensive sales performance dashboard for AtliQ Hardware, analyzing sales trends across Indian markets from 2017 to 2020. The dashboard equips business leaders with clear, actionable insights. It highlights that Delhi NCR is the top-performing market, contributing over half of the total revenue, while Electricalsara Stores leads as the highest-revenue customer. Products like Prod316 and Prod318 consistently outperform others, and seasonal peaks in sales are observed during July and August. The dashboard also brings attention to underperforming regions like Bhubaneshwar and Surat, aiding in strategic decision-making for future growth.
+
 
 
 ## 📊 Insights Derived
